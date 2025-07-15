@@ -1,2 +1,4 @@
 # Todo-API
-Nothing
+```
+npm run start
+```
